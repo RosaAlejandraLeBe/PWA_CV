@@ -1,0 +1,20 @@
+h2 {
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
+
+img{
+    size: 1px;
+    border-radius: 13px;
+}
+
+.table_e{
+    background-color: rgba(163, 121, 206, 0.534);
+    border-radius: 10px;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.633);
+}
