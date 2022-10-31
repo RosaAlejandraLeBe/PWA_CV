@@ -1,0 +1,20 @@
+{
+  "short_name": "Rosa Legarda CV",
+  "name": "Rosa Legarda CV",
+  "icons": [
+    {
+      "src": "/me/rose256.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/me/me.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
